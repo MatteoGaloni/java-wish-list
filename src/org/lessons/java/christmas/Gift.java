@@ -28,9 +28,7 @@ public class Gift {
 
     @Override
     public String toString() {
-        return "GiftList{" +
-                "recipient='" + recipient + '\'' +
-                ", description='" + description + '\'' +
-                '}';
+        return  "recipient='" + recipient + '\'' +
+                ", description='" + description + '\'';
     }
 }
